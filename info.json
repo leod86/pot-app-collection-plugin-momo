@@ -1,0 +1,11 @@
+{
+  "id": "plugin.com.pot-app.momo",
+  "plugin_type": "collection",
+  "icon": "momo.png",
+  "display": "墨墨背单词",
+  "homepage": "https://github.com/leod86/pot-app-collection-plugin-momo",
+  "needs": [
+    { "key": "auth_token", "display": "Auth Token" },
+    { "key": "notepad_title", "display": "词本名称" }
+  ]
+}
